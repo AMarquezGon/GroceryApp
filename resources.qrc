@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>icons/add.svg</file>
+        <file>icons/backArrow.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/minus.svg</file>
+        <file>icons/plus.svg</file>
+        <file>icons/recipe.svg</file>
+        <file>icons/shoppingCart.svg</file>
+        <file>icons/trashcan.svg</file>
+    </qresource>
+</RCC>
